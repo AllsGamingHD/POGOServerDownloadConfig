@@ -1,0 +1,2 @@
+# POGOServerDownloadConfig
+Download Source
